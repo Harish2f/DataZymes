@@ -1,0 +1,12 @@
+#img-id{
+  position: fixed;
+  right: 10px;
+  top: 5px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
